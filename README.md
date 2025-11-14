@@ -1,12 +1,8 @@
-# 🧁 Projeto Card de Receita - Cupcake de Café
+# 🧁 Projeto Card de Receita
 
 Este é um projeto simples, desenvolvido apenas com **HTML5** e **CSS3**, que recria um card de receita.
 
 O objetivo principal foi praticar a estruturação semântica do HTML e a estilização com CSS para replicar um design específico.
-
-## 📸 Preview do Projeto
-
-![Preview da página de receita de cupcake](/home/flavio/WebstormProjects/receita/assets/preview.png)
 
 ## 📖 Sobre o Projeto
 
@@ -23,22 +19,11 @@ Este projeto é um ótimo exercício para iniciantes em desenvolvimento web. Ele
 
 ## 🚀 Como Visualizar
 
-Você pode visualizar este projeto de algumas formas:
-
-**1. GitHub Pages (Recomendado)**
-
-O projeto está hospedado e pode ser visto ao vivo através deste link:
-
-🔗 **[https://seu-usuario.github.io/seu-repositorio/](https://seu-usuario.github.io/seu-repositorio/)**
-*(Substitua pelo seu link do GitHub Pages)*
-
-**2. Localmente**
-
-Se preferir, você pode clonar o repositório e abrir o arquivo `index.html` no seu navegador.
+Você pode visualizar este projeto:
 
 ```bash
 # Clone este repositório
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+git clone https://github.com/nunesflavio/receita-html.git
 
 # Entre na pasta do projeto
 cd seu-repositorio
