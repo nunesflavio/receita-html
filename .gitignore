@@ -1,0 +1,27 @@
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de IDE - JetBrains (WebStorm, IntelliJ, etc.)
+# Esta é a pasta mais importante para ignorar
+.idea/
+
+# Arquivos de Ambiente (NUNCA comite isso)
+# Contém senhas, chaves de API e outros segredos
+.env
+.env.local
+.env.*.local
+
+# Dependências (recriadas com 'npm install' ou 'yarn install')
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-error.log
+
+# Pastas de build/distribuição (arquivos gerados)
+dist/
+build/
+out/
